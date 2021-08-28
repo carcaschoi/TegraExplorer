@@ -1,5 +1,7 @@
 # TegraExplorer
 
+note stanardlibrary.c
+
 [![TegraExplorer builder](https://github.com/suchmememanyskill/TegraExplorer/workflows/TegraExplorer%20builder/badge.svg)](https://github.com/suchmememanyskill/TegraExplorer/actions)
 [![Downloads](https://img.shields.io/github/downloads/suchmememanyskill/TegraExplorer/total)](https://github.com/suchmememanyskill/TegraExplorer/releases)
 [![Version](https://img.shields.io/github/v/release/suchmememanyskill/tegraexplorer)](https://github.com/suchmememanyskill/TegraExplorer/releases)
