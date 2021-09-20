@@ -9,14 +9,14 @@ include $(DEVKITARM)/base_rules
 ################################################################################
 
 IPL_LOAD_ADDR := 0x40008000
-LPVERSION_MAJOR := 4
+LPVERSION_MAJOR := 1
 LPVERSION_MINOR := 0
-LPVERSION_BUGFX := 1
+LPVERSION_BUGFX := 0
 LPVERSION := \"$(LPVERSION_MAJOR).$(LPVERSION_MINOR).$(LPVERSION_BUGFX)\"
 
 ################################################################################
 
-TARGET := TegraExplorer
+TARGET := ShallowSea-updater
 BUILDDIR := build
 OUTPUTDIR := output
 SOURCEDIR = source
