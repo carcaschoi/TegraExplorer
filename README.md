@@ -1,1 +1,2 @@
-based on tegraexplorer
+# ShallowSea-updater
+Heavily based on tegraexplorer
